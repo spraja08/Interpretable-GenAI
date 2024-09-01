@@ -1,5 +1,13 @@
-# Interpretable-GenAI
+### GenXAI (Explainable/Interpretanble GenAI)
 
-First commit and checkin with another message
-with another new message
-from another mnachine
+#### GenAI Interpretability is a powerful concept in the field of artificial intelligence that aims to provide insights and understanding into the decision-making process of the models. It focuses on explaining how and why a model arrives at a particular prediction or decision, making it easier for humans to interpret and trust the model's outputs.
+
+I surveyed the list of known techniques available so far and captured them in the following mindmap.
+
+
+
+ Refer to the genai_interp.ipynb for a demo of selected techniques as below:
+
+1. Mehcanistic (Head, Model Visualisation)
+2. Feature Attribution (Integrated Gradients-based)
+3. Sample-based (Counterfactuals-based)
