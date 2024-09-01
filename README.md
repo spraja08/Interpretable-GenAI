@@ -4,9 +4,9 @@
 
 I surveyed the list of known techniques available so far and captured them in the following mindmap.
 
+![Explainable GenAI Techniques](https://github.com/spraja08/Interpretable-GenAI/blob/main/resources/GenXAI%20Methods.png)
 
-
- Refer to the genai_interp.ipynb for a demo of selected techniques as below:
+Refer to the genai_interp.ipynb for a demo of selected techniques as below:
 
 1. Mehcanistic (Head, Model Visualisation)
 2. Feature Attribution (Integrated Gradients-based)
