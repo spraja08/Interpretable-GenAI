@@ -11,3 +11,9 @@ Refer to the genai_interp.ipynb for a demo of selected techniques as below:
 1. Mehcanistic (Head, Model Visualisation)
 2. Feature Attribution (Integrated Gradients-based)
 3. Sample-based (Counterfactuals-based)
+
+To install ollama locally (docker based):
+docker run -d --gpus=all -v ollama:/root/.ollama -p 11434:11434 --name ollama --restart always ollama/ollama
+docker exec -it ollama ollama pull llama3
+docker exec -it ollama ollama pull mxbai-embed-large
+

@@ -16,3 +16,7 @@ captum
 lit-nlp
 transformers
 kaleido
+ragas
+python-dotenv
+llama-index
+llama-index-embeddings-ollama
