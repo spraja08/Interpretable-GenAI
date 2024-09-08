@@ -22,3 +22,4 @@ llama-index
 llama-index-embeddings-ollama
 faiss-cpu
 llama-index-vector-stores-faiss
+langgraph
